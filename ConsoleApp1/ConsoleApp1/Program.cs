@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Privet");
             Console.WriteLine("Poka");
 
+            Console.WriteLine("Эту строку добавил Виталик");
+
             Console.ReadKey();
 
 
