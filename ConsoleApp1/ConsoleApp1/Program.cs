@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Poka");
             
 
-            Console.WriteLine("Эту строку добавил Виталик");
+            Console.WriteLine("Эту строку изменил Виталик");
             Console.WriteLine('Виталик учит Санька');
             Console.WriteLine("Санёк тупит но старается");
 
