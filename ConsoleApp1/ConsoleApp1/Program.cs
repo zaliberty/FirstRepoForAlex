@@ -11,7 +11,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Privet");
+            Console.WriteLine("Poka");
+
             Console.ReadKey();
+
+
 
         }
     }
