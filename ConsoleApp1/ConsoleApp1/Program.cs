@@ -15,7 +15,7 @@ namespace ConsoleApp1
             
 
             Console.WriteLine("Эту строку изменил Виталик");
-            Console.WriteLine('Санька учит Виталика');
+            Console.WriteLine("Vitalik uchit Alex");
             Console.WriteLine("Санёк тупит но старается");
 
 
