@@ -12,13 +12,16 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Privet");
             Console.WriteLine("Poka");
+            
 
             Console.WriteLine("Эту строку добавил Виталик");
+            Console.WriteLine('Виталик учит Санька');
+            Console.WriteLine("Санёк тупит но старается");
+
+
+
 
             Console.ReadKey();
-
-
-
         }
     }
 }
